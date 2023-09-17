@@ -1,0 +1,1 @@
+As a Army ROTC website user, I want to be able to easily find all of the information that pertains to me. I would like to see the training plan for the next two weeks mapped out, have helpful links for regulations and training guides, and have current events uploaded for the alumni to see.
