@@ -64,3 +64,7 @@ There was no income nor expenses for this project.
 ---
 
 # Appendix
+
+[Project Repository](https://github.com/sam-wyche/army_rotc/tree/master)
+
+[Demo Video](https://drive.google.com/drive/folders/1yhjP7uKzoQmpRzfR0mXib_HO8CnbcZyo)
