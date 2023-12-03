@@ -47,13 +47,13 @@ My project will be creating a website for the University of Cincinnati Army ROTC
 
 # Self-Assessment Essays
 
-- [Sam Wyche](https://github.com/sam-wyche/wyche-senior-design/blob/main/SD%20Assignment%203%20-%20Individual%20write%20up.pdf)
+[Sam Wyche Self-Assessment](https://github.com/sam-wyche/wyche-senior-design/blob/main/SD%20Assignment%203%20-%20Individual%20write%20up.pdf)
 
 ---
 
 # Professional Biographies (Assignment #1)
 
-- [Sam Wyche](https://github.com/sam-wyche/wyche-senior-design/blob/main/wyche-professional-bio.md)
+[Sam Wyche Professional Biography](https://github.com/sam-wyche/wyche-senior-design/blob/main/wyche-professional-bio.md)
 
 ---
 
@@ -67,4 +67,4 @@ There was no income nor expenses for this project.
 
 [Project Repository](https://github.com/sam-wyche/army_rotc/tree/master)
 
-[Demo Video](https://drive.google.com/drive/folders/1yhjP7uKzoQmpRzfR0mXib_HO8CnbcZyo)
+[Demo Video](https://drive.google.com/file/d/1xVJSa-e10U_traaR0GDBKGtP4PxgFrWY/view?usp=sharing)
