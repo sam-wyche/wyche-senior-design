@@ -9,57 +9,41 @@ Lines between text boxes represent something that follows a previos action or an
 ### Design D0
 ```mermaid
 flowchart TD;
-  A(Website Opened)-->B(Homepage Appears)
-  B-->C(Navbar Displayed)
-  C-->D(Navbar Item Clicked)
-  D-->E(Route to New Page)
-  E-->F(Side Menu Displayed)
-  F-->G(Side Menu Item Clicked)
-  G-->E
-
-  E-->C
+  A(Website Opened)-->B(Navbar displayed at top of page)
+  B-->C(Navbar Item Clicked)
+  C-->D(Route to area on Page)
+  D-->E(Information populates with animations)
 ```
 
 
 ### Design D1
 ```mermaid
 flowchart TD;
-  A(Route to New Page)-->B(Page Displays Important Information)
-  A-->C(Links on the Left Side)
-  A-->D(Navbar Displayed)
+  A(Route to New area of Page)-->B(Page Displays Important Information)
+  A-->C(Navbar reamins displayed on top)
+  B-- Clicked -->A
   C-- Clicked -->A
-  D-- Clicked -->A
 ```
 
 ### Design D2
 ```mermaid
 flowchart LR;
-  A(Navbar Items)-->B(Cadet Training Information)
-  A-->C(Meet Our Cadre)
-  A-->D(Army Regulations and Training Doctrine)
-  A-->E(Newsletter and Weekly SITREP)
-  A-->F(Opportunities)
-  A-->G(Join Today)
+  A(Navbar Items)-->B(About)
+  A-->C(Timeline)
+  A-->D(Branches)
+  A-->E(Contact)
 
-  B-->B1(Events Calendar)
-  B-->B2(This Week)
-  B-->B3(Trackers)
+  B-->B1(Summary of ROTC)
+  B-->B2(Graphic in middle)
+  B-->B3(Stats on side)
+  B-->B4(Social Media)
 
-  C-->C1(PMS)
-  C-->C2(SMI)
-  C-->C3(APMS)
+  C-->C1(Timeline of ROTC)
 
-  D-->D1(AR 670-1)
-  D-->D2(FM 3-21.76)
-  D-->D3(ATP 3-21-8)
+  D-->D1(Branches displayed)
+  D-->D2(load more button)
+  D-->D3("See details" button when hovering)
 
-  E-->E1(Weekly SITREP)
-  E-->E2(Newsletter)
-
-  F-->F1(Branches)
-  F-->F2(Army Schools)
-  F-->F3(Tuition Assistance)
-  F-->F4(CTLT)
-
-  G-->G1(Mr. Prows)
+  E-->E1(Map of battalion)
+  E-->E2(form to contact our office)
 ```
