@@ -10,10 +10,6 @@ My project will be creating a website for the University of Cincinnati Army ROTC
 
 ---
 
-# User Interface Specification
-
-[User Interface Specification]()
-
 # Test Plan and Results
 
 [Test Plan](https://github.com/sam-wyche/wyche-senior-design/blob/main/Spring%20Semester/SD%20A1%20-%20Tests.pdf)
@@ -40,7 +36,8 @@ My project will be creating a website for the University of Cincinnati Army ROTC
 # Assessments
 
 [Initial](https://github.com/sam-wyche/wyche-senior-design/blob/main/SD%20Assignment%203%20-%20Individual%20write%20up.pdf)
-[Final]()
+
+[Final](https://github.com/sam-wyche/wyche-senior-design/blob/main/Spring%20Semester/SD%20A6.pdf)
 
 ---
 
