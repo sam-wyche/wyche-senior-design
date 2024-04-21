@@ -16,41 +16,45 @@ My project will be creating a website for the University of Cincinnati Army ROTC
 
 # Test Plan and Results
 
-[Test Plan]()
-[Results]()
+[Test Plan](https://github.com/sam-wyche/wyche-senior-design/blob/main/Spring%20Semester/SD%20A1%20-%20Tests.pdf)
 
 
 # User Manual
 
-[User Manual]()
+[User Manual](https://github.com/sam-wyche/wyche-senior-design/blob/main/howto.md)
 
 ---
 
 # PPT Slideshow
 
-[PPT]()
+[PPT](https://github.com/sam-wyche/wyche-senior-design/blob/main/Spring%20Semester/SD%20-%20Assignment%204.pptx)
 
 ---
 
 # Final Expo Poster
 
-[Expo Poster]()
+[Expo Poster](https://github.com/sam-wyche/wyche-senior-design/blob/main/Spring%20Semester/SD%20Poster.pdf)
 
 ---
 
 # Assessments
 
-[Initial]()
+[Initial](https://github.com/sam-wyche/wyche-senior-design/blob/main/SD%20Assignment%203%20-%20Individual%20write%20up.pdf)
 [Final]()
 
 ---
 
 # Summary of Hours
 
-There was no income nor expenses for this project.
+Sam Wyche: Total of at least 90 hours (45+ per semester). My github repository was not updated often, but the project was worked on at least 4 hours weekly each semester.
 
 ---
 
+# Summary of Expenses
+
+There was no income nor expenses for this project.
+
+---
 # Appendix
 
 [Project Repository](https://github.com/sam-wyche/army_rotc/tree/master)
